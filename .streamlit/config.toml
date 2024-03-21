@@ -1,4 +1,6 @@
 [theme]
 backgroundColor="#0066b2"
 textColor="000000"
+primaryColor="000000"
+secondaryColor="000000"
 font="monospace"
